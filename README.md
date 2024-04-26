@@ -8,6 +8,7 @@ A simple cleaning app for an android phone where you can pick a name, assign a t
 - GitHub
 - Flutter
 - Nucleo
+- Figma
 
 ## <img src="img/window-pointer@2x.png" width="30" height="30"> Features
 
@@ -21,7 +22,7 @@ This is what you can do with the cleaning app:
 
 I started by downloading the Flutter SDK and Android Studio, making an Google Pixel virtual machine and mocking up my ideas in Figma.
 
-When the first sketches cam to life, I started implementing titles for each page with the same background.
+When the first sketches came to life, I started implementing titles for each page with the same background.
 
 As a next step i started making each page. For the first page I made a simple grid 2x2 and for the last place, i left the box centered. Under all of that I implemented a button that would get you to the next page which is task assigning.
 
