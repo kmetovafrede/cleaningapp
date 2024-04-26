@@ -36,9 +36,6 @@ Along the way, I took notes on what should be improved in the future.
 - Making the app available for Android phones and Web Pages
 - Making the app in different languages not only Slovak
 
-## <img src="img/settings@2x.png" width="30" height="30"> Screenshots
+## <img src="img/digital-image@2x.png" width="30" height="30"> Screenshots
 
-<img src="img/sc1.png" width="260" height="540" >
-<img src="img//sc2.png"  width="260" height="540">
-<img src="img/sc3.png"  width="260" height="540">
-<img src="img/sc4.png"  width="260" height="540">
+<img src="img/phone_screenshot.png" width="960" height="550" >
